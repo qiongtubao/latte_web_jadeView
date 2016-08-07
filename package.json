@@ -1,0 +1,15 @@
+{
+	"name": "latte_web_jadeView",
+	"version": "0.0.1",
+	"description": "latte_web_jadeView",
+	"keywords": ["latte_web_jadeView"],
+	"author": "qiongtubao",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url":"https://github.com/qiongtubao/latte_web_jadeView.git"
+	}	,
+	"dependencies": {
+		"pug": "*"
+	}
+}
